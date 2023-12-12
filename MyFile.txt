@@ -7,3 +7,4 @@ https://sampleapp.tricentis.com/101/index.php
 uploading on guthub...
 Adding new line for checking from git.
 Adding code from visual studio.
+Changes from github.
