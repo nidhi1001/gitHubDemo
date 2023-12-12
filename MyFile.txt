@@ -13,3 +13,6 @@ Trying to add checkout module.
 public void login(){
     this code for login.
 }
+public void logout() {
+  this code is for logout.
+}
