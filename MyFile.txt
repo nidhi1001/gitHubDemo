@@ -7,4 +7,5 @@ https://sampleapp.tricentis.com/101/index.php
 uploading on guthub...
 Adding new line for checking from git.
 Adding code from visual studio.
-Adding line from local."12-12-2023"
+line from local."12-12-2023"
+Adding wishlist module. 
